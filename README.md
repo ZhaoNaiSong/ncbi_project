@@ -1,4 +1,3 @@
-# ncbi_project
 # Datasets
 
 This project provides data sets covering the medical domain for evaluating different methods such as entity linking, search, and knowledge graph construction methods.
